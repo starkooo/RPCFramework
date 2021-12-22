@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cec1753-2c7f-43a8-9c6f-5004782eed1a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/gk-rpc-codec/target/" />
+    <ignored path="$PROJECT_DIR$/gk-rpc-client/target/" />
+    <ignored path="$PROJECT_DIR$/gk-rpc-proto/target/" />
+    <ignored path="$PROJECT_DIR$/gk-rpc-transport/target/" />
+    <ignored path="$PROJECT_DIR$/gk-rpc-server/target/" />
+    <ignored path="$PROJECT_DIR$/gk-rpc-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-327">
+              <caret line="45" column="54" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectionUtilsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-common/src/test/java/com/smgeek/gkrpc/common/utils/ReflectionUtilsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Encoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/Encoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Decoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/Decoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONEncoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/JSONEncoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONEncoderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/JSONEncoderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="29" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/TestBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONDecoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/JSONDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONDecoderTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/JSONDecoderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/peer.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/Peer.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/ServiceDescriptor.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/Request.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/Response.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-common/src/main/java/com/smgeek/gkrpc/common/utils/ReflectionUtils.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-common/src/test/java/com/smgeek/gkrpc/common/utils/TestClass.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-common/src/test/java/com/smgeek/gkrpc/common/utils/ReflectionUtilsTest.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/Encoder.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/Decoder.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/pom.xml" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/JSONEncoder.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/JSONDecoder.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/TestBean.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/JSONEncoderTest.java" />
+        <option value="$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/JSONDecoderTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gk-rpc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gk-rpc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gkrpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gkrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="gk-rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.smgeek.gkrpc.codec" />
+      <recent name="com.smgeek.gkrpc.common.utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JSONDecoderTest.decode">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JSONDecoderTest.decode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gk-rpc-codec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smgeek.gkrpc.codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.smgeek.gkrpc.codec" />
+      <option name="MAIN_CLASS_NAME" value="com.smgeek.gkrpc.codec.JSONDecoderTest" />
+      <option name="METHOD_NAME" value="decode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="JSONEncoderTest.encode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gk-rpc-codec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smgeek.gkrpc.codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.smgeek.gkrpc.codec" />
+      <option name="MAIN_CLASS_NAME" value="com.smgeek.gkrpc.codec.JSONEncoderTest" />
+      <option name="METHOD_NAME" value="encode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReflectionUtilsTest.getPublicMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gk-rpc-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smgeek.gkrpc.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.smgeek.gkrpc.common.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.smgeek.gkrpc.common.utils.ReflectionUtilsTest" />
+      <option name="METHOD_NAME" value="getPublicMethods" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReflectionUtilsTest.invoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gk-rpc-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smgeek.gkrpc.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.smgeek.gkrpc.common.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.smgeek.gkrpc.common.utils.ReflectionUtilsTest" />
+      <option name="METHOD_NAME" value="invoke" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ReflectionUtilsTest.getPublicMethods" />
+      <item itemvalue="JUnit.ReflectionUtilsTest.invoke" />
+      <item itemvalue="JUnit.JSONEncoderTest.encode" />
+      <item itemvalue="JUnit.JSONDecoderTest.decode" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JSONDecoderTest.decode" />
+        <item itemvalue="JUnit.JSONEncoderTest.encode" />
+        <item itemvalue="JUnit.ReflectionUtilsTest.invoke" />
+        <item itemvalue="JUnit.ReflectionUtilsTest.getPublicMethods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cec1753-2c7f-43a8-9c6f-5004782eed1a" name="Default" comment="" />
+      <created>1640158524235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640158524235</updated>
+      <workItem from="1640158528555" duration="1315000" />
+      <workItem from="1640159921670" duration="4526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReflectionUtilsTest_getPublicMethods - 2021.12.22 at 17h 35m 42s.xml">
+      <configuration name="ReflectionUtilsTest.getPublicMethods" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectionUtilsTest_getPublicMethods - 2021.12.22 at 17h 36m 05s.xml">
+      <configuration name="ReflectionUtilsTest.getPublicMethods" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectionUtilsTest_getPublicMethods - 2021.12.22 at 17h 36m 29s.xml">
+      <configuration name="ReflectionUtilsTest.getPublicMethods" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectionUtilsTest_invoke - 2021.12.22 at 17h 38m 54s.xml">
+      <configuration name="ReflectionUtilsTest.invoke" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JSONEncoderTest_encode - 2021.12.22 at 18h 02m 17s.xml">
+      <configuration name="JSONEncoderTest.encode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JSONDecoderTest_decode - 2021.12.22 at 18h 04m 37s.xml">
+      <configuration name="JSONDecoderTest.decode" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5841000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.26066098" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="80" column="52" lean-forward="true" selection-start-line="80" selection-start-column="52" selection-end-line="80" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-proto/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-transport/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-proto/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-transport/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/Peer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/ServiceDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-proto/src/main/java/com/smgeek/gkrpc/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-common/src/main/java/com/smgeek/gkrpc/common/utils/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-common/src/test/java/com/smgeek/gkrpc/common/utils/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-common/src/test/java/com/smgeek/gkrpc/common/utils/ReflectionUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/Decoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-327">
+          <caret line="45" column="54" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/JSONEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/TestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/main/java/com/smgeek/gkrpc/codec/JSONDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/JSONEncoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gk-rpc-codec/src/test/java/com/smgeek/gkrpc/codec/JSONDecoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
